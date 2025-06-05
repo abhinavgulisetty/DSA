@@ -1,1 +1,2 @@
 238-product-of-array-except-self|Medium|1749061800000
+36-valid-sudoku|Medium|1749061800000
