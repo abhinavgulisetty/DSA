@@ -1,3 +1,4 @@
 238-product-of-array-except-self|Medium|1749061800000
 36-valid-sudoku|Medium|1749061800000
 128-longest-consecutive-sequence|Medium|1749061800000
+125-valid-palindrome|Easy|1749061800000
