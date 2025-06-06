@@ -3,3 +3,4 @@
 128-longest-consecutive-sequence|Medium|1749061800000
 125-valid-palindrome|Easy|1749061800000
 344-reverse-string|Easy|1749148200000
+167-two-sum-ii-input-array-is-sorted|Medium|1749148200000
