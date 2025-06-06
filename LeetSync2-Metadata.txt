@@ -8,3 +8,4 @@
 1768-merge-strings-alternately|Easy|1749148200000
 88-merge-sorted-array|Easy|1749148200000
 26-remove-duplicates-from-sorted-array|Easy|1749148200000
+15-3sum|Medium|1749148200000
