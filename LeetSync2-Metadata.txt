@@ -13,3 +13,4 @@
 881-boats-to-save-people|Medium|1749493800000
 42-trapping-rain-water|Hard|1749493800000
 219-contains-duplicate-ii|Easy|1749580200000
+121-best-time-to-buy-and-sell-stock|Easy|1749666600000
