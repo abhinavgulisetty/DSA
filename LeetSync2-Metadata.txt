@@ -17,3 +17,4 @@
 3-longest-substring-without-repeating-characters|Medium|1749753000000
 76-minimum-window-substring|Hard|1749753000000
 455-assign-cookies|Easy|1754418600000
+2410-maximum-matching-of-players-with-trainers|Medium|1754418600000
