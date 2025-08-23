@@ -18,3 +18,4 @@
 76-minimum-window-substring|Hard|1749753000000
 455-assign-cookies|Easy|1754418600000
 2410-maximum-matching-of-players-with-trainers|Medium|1754418600000
+2567-minimum-score-by-changing-two-elements|Medium|1755887400000
