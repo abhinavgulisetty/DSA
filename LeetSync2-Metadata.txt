@@ -22,3 +22,4 @@
 70-climbing-stairs|Easy|1756319400000
 518-coin-change-ii|Medium|1756837800000
 53-maximum-subarray|Medium|1758047400000
+1143-longest-common-subsequence|Medium|1758220200000
