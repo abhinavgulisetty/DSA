@@ -24,3 +24,4 @@
 53-maximum-subarray|Medium|1758047400000
 1143-longest-common-subsequence|Medium|1758220200000
 217-contains-duplicate|Easy|1760380200000
+268-missing-number|Easy|1760380200000
