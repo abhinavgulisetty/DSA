@@ -28,3 +28,4 @@
 448-find-all-numbers-disappeared-in-an-array|Easy|1760466600000
 1365-how-many-numbers-are-smaller-than-the-current-number|Easy|1760466600000
 1266-minimum-time-visiting-all-points|Easy|1760466600000
+54-spiral-matrix|Medium|1760466600000
