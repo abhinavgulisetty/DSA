@@ -34,3 +34,4 @@
 845-longest-mountain-in-array|Medium|1760639400000
 2-add-two-numbers|Medium|1760725800000
 1200-minimum-absolute-difference|Easy|1760812200000
+209-minimum-size-subarray-sum|Medium|1760898600000
