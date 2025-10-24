@@ -37,3 +37,4 @@
 209-minimum-size-subarray-sum|Medium|1760898600000
 136-single-number|Easy|1760985000000
 322-coin-change|Medium|1760985000000
+35-search-insert-position|Easy|1761244200000
