@@ -39,3 +39,4 @@
 322-coin-change|Medium|1760985000000
 35-search-insert-position|Easy|1761244200000
 547-number-of-provinces|Medium|1761330600000
+787-cheapest-flights-within-k-stops|Medium|1761589800000
