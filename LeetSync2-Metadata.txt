@@ -41,3 +41,4 @@
 547-number-of-provinces|Medium|1761330600000
 787-cheapest-flights-within-k-stops|Medium|1761589800000
 860-lemonade-change|Easy|1762540200000
+678-valid-parenthesis-string|Medium|1762540200000
