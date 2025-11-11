@@ -43,3 +43,4 @@
 860-lemonade-change|Easy|1762540200000
 678-valid-parenthesis-string|Medium|1762540200000
 912-sort-an-array|Medium|1762799400000
+75-sort-colors|Medium|1762799400000
